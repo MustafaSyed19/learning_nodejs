@@ -1,0 +1,9 @@
+### Event loop 
+
+- event loop is what allows nodejs to perform non-blocking I/O/async operations by offloading 
+to the system kernel whenever possible. 
+-when there is no synchronous code to run, we run the async code 
+
+https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
+for more info
